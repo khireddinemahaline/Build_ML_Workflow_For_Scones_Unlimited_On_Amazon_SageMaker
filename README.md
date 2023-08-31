@@ -23,5 +23,5 @@ Python 3.8 runtime for the AWS Lambda Functions
 ```
 
 # 4. Workflow 
-in this project we made an automate model using Sagemaker with lambda function and link them with step function as : 
+in this project we made an automate model using Sagemaker with lambda function and link them with step function as :  </br>
 ![usin step function autoumate model](step-fun.png)
