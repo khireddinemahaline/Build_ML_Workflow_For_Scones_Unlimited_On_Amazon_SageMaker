@@ -7,4 +7,4 @@ Image Classifiers are used in the field of computer vision to identify the conte
 #### In this project, we'll be building an image classification model that can automatically detect which kind of vehicle delivery drivers have, in order to route them to the correct loading bay and orders. Assigning delivery professionals who have a bicycle to nearby orders and giving motorcyclists orders that are farther can help Scones Unlimited optimize their operations.
 
 #### So we build an image classification model that can tell bicycles apart from motorcycles.
-![ build an image classification model that can tell bicycles apart from motorcycles] (assets/images/model.png)
+![ build an image classification model that can tell bicycles apart from motorcycles] (assets/images/model.jpeg)
