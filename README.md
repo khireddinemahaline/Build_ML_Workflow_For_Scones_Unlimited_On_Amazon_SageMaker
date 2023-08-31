@@ -23,5 +23,8 @@ Python 3.8 runtime for the AWS Lambda Functions
 ```
 
 # 4. Workflow 
-#### in this project we made an automate model using Sagemaker with thre [lambda function](https://github.com/khireddinemahaline/Build_ML_Workflow_For_Scones_Unlimited_On_Amazon_SageMaker/blob/823768ca2ab52f513867cdbbc9c8dad87f471bd3/lambda.py) and link them with step function as :  </br>
+#### in this project we made an automate model using Sagemaker with three [lambda function](https://github.com/khireddinemahaline/Build_ML_Workflow_For_Scones_Unlimited_On_Amazon_SageMaker/blob/823768ca2ab52f513867cdbbc9c8dad87f471bd3/lambda.py) and link them with step function as :  </br>
+**serializeImageData** `copy an object from S3`
+**image-classification** `base64 encode it`
+**THRESHOLD_CONFIDENCE** ` return it to the step function as image_data in an event.`
 ![usin step function autoumate model](step-fun.png)
