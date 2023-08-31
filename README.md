@@ -14,3 +14,10 @@ Image Classifiers are used in the field of computer vision to identify the conte
 **Step 2:** Model training and deployment </br>
 **Step 3:** Lambdas and step function workflow </br>
 **Step 4:** Testing and evaluation </br>
+
+# 3.  Dependencies
+```
+Python 3 (Data Science) - v3.7.10 kernel
+ml.t3.medium instance
+Python 3.8 runtime for the AWS Lambda Functions
+```
