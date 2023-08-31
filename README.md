@@ -10,7 +10,7 @@ Image Classifiers are used in the field of computer vision to identify the conte
 ![ build an image classification model that can tell bicycles apart from motorcycles](model.png)
 
 # 2. Project Steps Overview
-**Step 1:** Data staging
+**Step 1:** Data staging \n
 **Step 2:** Model training and deployment
 **Step 3:** Lambdas and step function workflow
 **Step 4:** Testing and evaluation
