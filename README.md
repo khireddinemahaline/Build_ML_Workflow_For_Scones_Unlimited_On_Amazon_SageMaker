@@ -21,3 +21,7 @@ Python 3 (Data Science) - v3.7.10 kernel
 ml.t3.medium instance
 Python 3.8 runtime for the AWS Lambda Functions
 ```
+
+# 4. Workflow 
+in this project we made an automate model using Sagemaker with lambda function and link them with step function as : 
+![usin step function autoumate model](step-fun.png)
